@@ -69,12 +69,12 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
 
 <p>
   <a href="https://vanazuazo.github.io"><img src="https://img.shields.io/badge/Portafolio-e3367f?style=for-the-badge&logo=githubpages&logoColor=000000" alt="Portafolio"></a>
-  <a href="https://TU_USUARIO.neocities.org"><img src="https://img.shields.io/badge/Cuaderno_de_notas-e3367f?style=for-the-badge&logo=neocities&logoColor=000000" alt="Cuaderno de notas"></a>
-  <a href="https://www.behance.net/TU_USUARIO"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=e3367f" alt="Behance"></a>
-  <a href="https://codepen.io/TU_USUARIO"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=e3367f" alt="CodePen"></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e3367f" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=e3367f" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=e3367f" alt="TikTok"></a>
+  <a href="https://vanacode.neocities.org/#inicio"><img src="https://img.shields.io/badge/Cuaderno_de_notas-e3367f?style=for-the-badge&logo=neocities&logoColor=000000" alt="Cuaderno de notas"></a>
+  <a href="https://www.behance.net/VanaCode"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=e3367f" alt="Behance"></a>
+  <a href="https://codepen.io/vanacode"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=e3367f" alt="CodePen"></a>
+  <a href="https://www.linkedin.com/in/vanacode"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e3367f" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/vana.code"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=e3367f" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@vana.code"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=e3367f" alt="TikTok"></a>
 </p>
 
 <div align="center">
