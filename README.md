@@ -68,7 +68,7 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
 ### ☆ Mis números
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VanaCode&show_icons=true&locale=es&bg_color=000000&title_color=e3367f&text_color=fde6d4&icon_color=f6bb2e&ring_color=e3367f&border_color=7c1745&border_radius=14" alt="Estadísticas de GitHub de Vana" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanaZuazo&show_icons=true&locale=es&bg_color=000000&title_color=e3367f&text_color=fde6d4&icon_color=f6bb2e&ring_color=e3367f&border_color=7c1745&border_radius=14" alt="Estadísticas de GitHub de Vana" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanaZuazo&layout=compact&locale=es&bg_color=000000&title_color=e3367f&text_color=fde6d4&border_color=7c1745&border_radius=14" alt="Lenguajes que más uso" height="170">
 </p>
 
