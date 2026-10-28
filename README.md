@@ -15,7 +15,7 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
 <table>
   <tr><td><b>Ubicación</b></td><td>Lima, Perú</td></tr>
   <tr><td><b>Hago</b></td><td>Webs, interfaces y apps pequeñas</td></tr>
-  <tr><td><b>Ahora mismo</b></td><td>Aprendiendo React y TypeScript</td></tr>
+  <tr><td><b>Ahora mismo</b></td><td>C# y TypeScript</td></tr>
   <tr><td><b>Estado</b></td><td>Disponible para proyectos freelance</td></tr>
   <tr><td><b>Mood</b></td><td>Programando en pantuflas</td></tr>
 </table>
