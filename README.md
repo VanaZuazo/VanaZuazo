@@ -82,6 +82,6 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
 
 <img src="https://komarev.com/ghpvc/?username=VanaZuazo&label=visitas&color=e3367f&style=for-the-badge" alt="Contador de visitas">
 
-<sub>© 2026 · hecho por vanacode · se ve mejor en 1024x768 xD</sub>
+<sub>© 2026 · hecho por vanacode</sub>
 
 </div>
