@@ -60,7 +60,7 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
 **Aprendiendo ahora:**
 
 <p>
-  <img src="https://img.shields.io/badge/React-1a0710?style=for-the-badge&logo=react&logoColor=f6bb2e" alt="React">
+  <img src="https://img.shields.io/badge/React-1a0710?style=for-the-badge&logo=react&logoColor=f6bb2e" alt="C#">
   <img src="https://img.shields.io/badge/TypeScript-1a0710?style=for-the-badge&logo=typescript&logoColor=f6bb2e" alt="TypeScript">
 </p>
 
