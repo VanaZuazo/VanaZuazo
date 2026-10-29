@@ -18,6 +18,7 @@ Construyo cosas digitales y documento el proceso, aunque todavía no me sienta l
   <tr><td><b>Ahora mismo</b></td><td>C# y TypeScript</td></tr>
   <tr><td><b>Estado</b></td><td>Disponible para proyectos freelance</td></tr>
   <tr><td><b>Mood</b></td><td>Programando en pantuflas</td></tr>
+  <tr><td><b>Contacto</b></td><td>vanacode@outlook.com</td></tr>
 </table>
 
 <img src="assets/divisor.svg" alt="" width="100%">
